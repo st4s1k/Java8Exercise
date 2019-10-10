@@ -4,7 +4,7 @@ import java.util.function.Predicate;
 import java.util.function.Supplier;
 
 import com.st4s1k.LazyList.ILazyList;
-
+w
 public class LazyList<T> implements ILazyList<T> {
 
     private final T head;
